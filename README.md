@@ -1,2 +1,2 @@
-# MyNotionPligins
+# NotionPligins
 wannabe Notion Expert😂
